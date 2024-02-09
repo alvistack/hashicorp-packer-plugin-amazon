@@ -1,0 +1,6 @@
+packer-plugin-amazon: copyright-without-copyright-notice
+packer-plugin-amazon: initial-upload-closes-no-bugs
+packer-plugin-amazon: no-manual-page
+packer-plugin-amazon: shared-library-lacks-prerequisites
+packer-plugin-amazon: statically-linked-binary
+packer-plugin-amazon: zero-byte-file-in-doc-directory
